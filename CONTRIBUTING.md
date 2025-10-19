@@ -36,7 +36,7 @@ We welcome suggestions for new features or improvements:
 
 1. **Clone your fork**
    ```bash
-   git clone https://github.com/yourusername/heleerra-api-integration.git
+   git clone https://github.com/heleerra/heleerra-api-integration.git
    cd heleerra-api-integration
    ```
 
