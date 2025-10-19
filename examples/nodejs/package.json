@@ -1,0 +1,31 @@
+{
+  "name": "heleerra-api-example",
+  "version": "1.0.0",
+  "description": "Heleerra Payment Gateway API integration example for Node.js",
+  "main": "heleerra_api.js",
+  "scripts": {
+    "start": "node heleerra_api.js",
+    "dev": "nodemon heleerra_api.js",
+    "test": "node test_example.js"
+  },
+  "keywords": [
+    "heleerra",
+    "payment",
+    "gateway",
+    "api",
+    "nodejs",
+    "integration"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
